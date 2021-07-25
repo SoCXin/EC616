@@ -1,0 +1,32 @@
+{
+	"fs": {
+		"begin":"0xb50000",
+		"length":"344064"
+	},
+	"rr": {
+		"begin":"0xba4000",
+		"length":"81920"
+	},
+	"drr": {
+		"begin":"0x81600",
+		"length":"40960"
+	},
+	"hfd": {
+		"begin":"0xbbc000",
+		"length":"278528"
+	},
+	"opt": {
+		"begin":"0x0",
+		"length":"0"
+	},
+	"cal":[
+		{
+			"begin":"0x16000",
+			"length":"40960"
+		},
+		{
+			"begin":"0x3a4000",
+			"length":"81920"
+		}
+	]
+}

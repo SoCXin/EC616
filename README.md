@@ -29,7 +29,7 @@ EC616S支持低功耗UART、模组BOM成本进一步降低、模组PCB面积进�
 
 ### [选型建议](https://github.com/SoCXin)
 
-[EC616](https://github.com/SoCXin/EC616) 相关竞品包括[MT2625](https://github.com/SoCXin/MT2625)，[XY1100](https://github.com/SoCXin/XY1100)等，基于AIR302模组和[LuatOS](https://github.com/openLuat/LuatOS)生态，具有更好更完整的openCPU开发基础。
+[EC616](https://github.com/SoCXin/EC616) 相关竞品包括[MT2625](https://github.com/SoCXin/MT2625)，[XY1100](https://github.com/SoCXin/XY1100)等，基于AIR302模组和[LuatOS](https://gitee.com/openLuat/LuatOS)生态，具有更好更完整的openCPU开发基础。
 
 * QFN52 (6mm*6mm*0.9mm)
 
