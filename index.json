@@ -1,0 +1,36 @@
+{
+    "type":"SoC",
+    "name":"EC616S",
+    "title": "eigencomm EC616S SoC",
+    "description":"eigencomm Cortex-M3 NB-IoT SoC",
+    "Core": {
+        "CoreNum": 1,
+        "Core":"Cortex-M3",
+        "Fmax":204,
+        "DMIPS": 250,
+        "CoreMark": 680
+    },
+    "manufacturer": {
+        "vendor":"eigencomm",
+        "homepage":"http://www.eigencomm.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SoCXin/EC616S.git"
+    },
+    "version":"1.0.0",
+    "series":["EC616S"],
+    "package":["QFN52"],
+    "peripheral": ["ADC","XIP","USB","USART","SPI","IIC"],
+    "temp": [-40,85],
+    "volt": [1.8,3.3],
+    "ESD": {
+        "HBM": 2000,
+        "CDM": 500
+    },
+    "keywords": [
+        "Cortex-M4",
+        "eigencomm","40nm",
+        "DAC","ADC","I2C","LVD","SPI","LPUSART"
+    ]
+}
